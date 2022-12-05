@@ -1,2 +1,2 @@
 # cs189
-OCC CS189 W14 Assignment
+GWC CS189 W14 Assignment
